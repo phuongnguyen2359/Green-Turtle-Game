@@ -7,15 +7,11 @@
 The following **required** functionality is completed:
 
 - [ ] Ho Chi Minh City
-  - [x] Gameplay: At the beginning of the game, the trash will flow with water and stuck into the pipes. As the time go on,    the water will rise and the more trash will come. The more trash stucked at the pipes, the more speed of water rise will increase. To be able to win the game, green turtle have to swin under the water and remove the trash out of the pipes. The game will end when all the trash are removed or the city is full of water.
+   - [x] Gameplay: At the beginning of the game, the trash will flow with water and stuck into the pipes. As the time go on,    the water will rise and the more trash will come. The more trash stucked at the pipes, the more speed of water rise will increase. To be able to win the game, green turtle have to swin under the water and remove the trash out of the pipes. The game will end when all the trash are removed or the city is full of water.
    
 - [ ] Ha Noi.
    - [x] Gameplay: A huge landfill is appear next to Hoan Kiem Lake and The President of USA is about to arrive Ha Noi in minutes. As the time go on, the flys will fly out of the landfill, the more time the landfill existed the more fly will appear. Our mission is to control green turtle to collect the trash and put it into the bin then kill all of the flys. The game will end when the mission is complete or the President is arrived.
-   - [ ] The filters you should actually have are: category, sort (best match, distance, highest rated), distance, deals (on/off).
-   - [ ] The filters table should be organized into sections as in the mock.
-   - [ ] You can use the default UISwitch for on/off states.
-   - [ ] Clicking on the "Search" button should dismiss the filters page and trigger the search w/ the new filter settings.
-   - [ ] Display some of the available Yelp categories (choose any 3-4 that you want).
+   
 
 The following **additional** features are implemented:
 
