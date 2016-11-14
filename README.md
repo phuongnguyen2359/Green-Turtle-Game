@@ -6,7 +6,7 @@
 
 The following **required** functionality is completed:
 
-- [ ] Ho Chi Minh City
+- [ ] Ho Chi Minh City.
    - Gameplay: At the beginning of the game, the trash will flow with water and stuck into the pipes. As the time go on, the water will rise and the more trash will come. The more trash stucked at the pipes, the more speed of water rise will increase. To be able to win the game, green turtle have to swin under the water and remove the trash out of the pipes. The game will end when all the trash are removed or the city is full of water.
    - [ ] Table rows should be dynamic height according to the content height.
    - [ ] Custom cells should have the proper Auto Layout constraints.
