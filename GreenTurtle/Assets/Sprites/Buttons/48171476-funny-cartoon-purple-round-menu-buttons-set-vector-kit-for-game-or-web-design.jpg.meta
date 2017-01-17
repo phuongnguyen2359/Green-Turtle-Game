@@ -1,0 +1,288 @@
+fileFormatVersion: 2
+guid: 8b384c76ddcbf4d1885ef696dd2fcee8
+timeCreated: 1479201592
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 48171476-funny-cartoon-purple-round-menu-buttons-set-vector-kit-for-game-or-web-design_0
+    21300002: 48171476-funny-cartoon-purple-round-menu-buttons-set-vector-kit-for-game-or-web-design_1
+    21300004: 48171476-funny-cartoon-purple-round-menu-buttons-set-vector-kit-for-game-or-web-design_2
+    21300006: 48171476-funny-cartoon-purple-round-menu-buttons-set-vector-kit-for-game-or-web-design_3
+    21300008: 48171476-funny-cartoon-purple-round-menu-buttons-set-vector-kit-for-game-or-web-design_4
+    21300010: 48171476-funny-cartoon-purple-round-menu-buttons-set-vector-kit-for-game-or-web-design_5
+    21300012: option
+    21300014: 48171476-funny-cartoon-purple-round-menu-buttons-set-vector-kit-for-game-or-web-design_7
+    21300016: 48171476-funny-cartoon-purple-round-menu-buttons-set-vector-kit-for-game-or-web-design_8
+    21300018: 48171476-funny-cartoon-purple-round-menu-buttons-set-vector-kit-for-game-or-web-design_9
+    21300020: play
+    21300022: 48171476-funny-cartoon-purple-round-menu-buttons-set-vector-kit-for-game-or-web-design_11
+    21300024: 48171476-funny-cartoon-purple-round-menu-buttons-set-vector-kit-for-game-or-web-design_12
+    21300026: 48171476-funny-cartoon-purple-round-menu-buttons-set-vector-kit-for-game-or-web-design_13
+    21300028: 48171476-funny-cartoon-purple-round-menu-buttons-set-vector-kit-for-game-or-web-design_14
+    21300030: 48171476-funny-cartoon-purple-round-menu-buttons-set-vector-kit-for-game-or-web-design_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 512
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 48171476-funny-cartoon-purple-round-menu-buttons-set-vector-kit-for-game-or-web-design_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 337.5
+        width: 112.5
+        height: 112.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 48171476-funny-cartoon-purple-round-menu-buttons-set-vector-kit-for-game-or-web-design_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 337.5
+        width: 112.5
+        height: 112.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 48171476-funny-cartoon-purple-round-menu-buttons-set-vector-kit-for-game-or-web-design_2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 337.5
+        width: 112.5
+        height: 112.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 48171476-funny-cartoon-purple-round-menu-buttons-set-vector-kit-for-game-or-web-design_3
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 337.5
+        width: 112.5
+        height: 112.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 48171476-funny-cartoon-purple-round-menu-buttons-set-vector-kit-for-game-or-web-design_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 225.5
+        width: 112.5
+        height: 112.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 48171476-funny-cartoon-purple-round-menu-buttons-set-vector-kit-for-game-or-web-design_5
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 225.5
+        width: 112.5
+        height: 112.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: option
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 225.5
+        width: 112.5
+        height: 112.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 48171476-funny-cartoon-purple-round-menu-buttons-set-vector-kit-for-game-or-web-design_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 225.5
+        width: 112.5
+        height: 112.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 48171476-funny-cartoon-purple-round-menu-buttons-set-vector-kit-for-game-or-web-design_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 113.5
+        width: 112.5
+        height: 112.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 48171476-funny-cartoon-purple-round-menu-buttons-set-vector-kit-for-game-or-web-design_9
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 113.5
+        width: 112.5
+        height: 112.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 113.5
+        width: 112.5
+        height: 112.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 48171476-funny-cartoon-purple-round-menu-buttons-set-vector-kit-for-game-or-web-design_11
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 113.5
+        width: 112.5
+        height: 112.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 48171476-funny-cartoon-purple-round-menu-buttons-set-vector-kit-for-game-or-web-design_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.5
+        width: 112.5
+        height: 112.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 48171476-funny-cartoon-purple-round-menu-buttons-set-vector-kit-for-game-or-web-design_13
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1.5
+        width: 112.5
+        height: 112.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 48171476-funny-cartoon-purple-round-menu-buttons-set-vector-kit-for-game-or-web-design_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 2
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 48171476-funny-cartoon-purple-round-menu-buttons-set-vector-kit-for-game-or-web-design_15
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1.5
+        width: 112.5
+        height: 112.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

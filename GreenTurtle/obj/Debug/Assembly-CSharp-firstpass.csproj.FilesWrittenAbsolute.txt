@@ -1,0 +1,17 @@
+/Users/hoangdoan129.it/GreenTurtle/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/hoangdoan129.it/GreenTurtle/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/hoangdoan129.it/GreenTurtle/obj/Debug/Assembly-CSharp-firstpass.dll
+/Users/hoangdoan129.it/GreenTurtle/obj/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/hoangdoan129.it/GreenTurtle/Temp/bin/Debug/UnityEngine.dll
+/Users/hoangdoan129.it/GreenTurtle/Temp/bin/Debug/UnityEditor.dll
+/Users/hoangdoan129.it/GreenTurtle/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/hoangdoan129.it/GreenTurtle/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/hoangdoan129.it/GreenTurtle/Temp/bin/Debug/Mono.Cecil.dll
+/Users/hoangdoan129.it/GreenTurtle/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/hoangdoan129.it/GreenTurtle/Temp/bin/Debug/Unity.DataContract.dll
+/Users/hoangdoan129.it/GreenTurtle/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/hoangdoan129.it/GreenTurtle/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/hoangdoan129.it/GreenTurtle/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/hoangdoan129.it/GreenTurtle/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/hoangdoan129.it/GreenTurtle/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/hoangdoan129.it/GreenTurtle/Temp/bin/Debug/Mono.Cecil.Mdb.dll
